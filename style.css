@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+* {
+    font-family: 'Oswald';
+}
+body {
+    margin: 0;
+}
+h1 {
+    font-weight: bolder;
+}
+p {
+    color: darkslategrey;
+}
+.container {
+    margin: 20px auto;
+    width: 50%;
+    text-align: center;
+}
+
+.song-text {
+    width: 50%;
+    margin: 40px auto;
+}
