@@ -1,0 +1,4 @@
+#Autoprefixer
+    autoprefixer -b "last 5 versions" -o style.prefixed.css style.css
+
+#html-checker
