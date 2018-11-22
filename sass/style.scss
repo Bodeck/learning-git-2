@@ -22,7 +22,7 @@ p {
     margin: 40px auto;
 }
 
-.test-class {
+.test-class, .another-class {
     display: flex;
     transition: all 0.2 linear;
 }
