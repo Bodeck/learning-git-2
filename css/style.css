@@ -1,6 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Lato");
-.song-text { font-family: 'Lato', sans-serif; font-size: 1em; }
+@import url("https://fonts.googleapis.com/css?family=Oswald");
+* { font-family: 'Oswald'; }
 
-.song-title { text-decoration: underline; }
+body { margin: 0; }
 
-.song-author { color: darkgrey; }
+h1 { font-weight: bolder; }
+
+p { color: darkslategrey; }
+
+.container { margin: 20px auto; width: 50%; text-align: center; }
+
+.song-text { width: 50%; margin: 40px auto; }
+
+.test-class { display: -ms-flexbox; display: flex; transition: all 0.2 linear; }
